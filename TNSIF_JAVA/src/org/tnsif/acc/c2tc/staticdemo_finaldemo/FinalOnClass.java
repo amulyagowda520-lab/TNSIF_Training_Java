@@ -1,4 +1,4 @@
-package staticdemo_finaldemo;
+package org.tnsif.acc.c2tc.staticdemo_finaldemo;
 
 
 
