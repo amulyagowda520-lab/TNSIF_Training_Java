@@ -15,7 +15,7 @@ public class FinalOnVariable {
 	public static void main(String[] args) {
 		UpiApp app=new UpiApp();
 		app.showLimit();
-		max_Daily_limit=500000;
+		 int max_Daily_limit=500000;
 
 	}
 
