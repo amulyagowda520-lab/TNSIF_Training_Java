@@ -1,4 +1,5 @@
-package org.thsif.acc.c2tc.methodoverriding;
+package org.tnsif.acc.c2tc.methodoverriding_super_this_instanceof;
+
 
 //parent class
 class Payment
@@ -19,12 +20,12 @@ class CardPayment extends Payment
 {
 	void makePayment()
 	{
-		System.out.println("payment made using Credit/Debit card");
+		System.out.println("Payment made using Credit/Debit card");
 	}
 }
 class WalletPayment extends Payment
 {
-	void makePyament()
+	void makePayment()
 	{
 		System.out.println("Payment made using WalletPayment ");
 	}
